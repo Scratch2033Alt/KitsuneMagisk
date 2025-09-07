@@ -1,7 +1,7 @@
 # Kitsune Magisk
-This is not an officially supported <a onclick="window.location.href = 'https://github.com/topjohnwu'; ">topjohnwu</a> project.
+This is not an officially supported  project.
 
-<blockquote>This is not Official Magisk, please <a onclick="window.location.href = 'https://github.com/topjohnwu/Magisk'; ">go to this page and download Official Magisk.</a></blockquote>
+<blockquote>This is not Official Magisk, please go to [this page](https://github.com/topjohnwu/Magisk) and download Official Magisk.</blockquote>
 
 <b>This is just an repository for finding the latest archive of Kitsune Mask AND will not be maintained. Thank you for your understanding.<b>
 # Download
